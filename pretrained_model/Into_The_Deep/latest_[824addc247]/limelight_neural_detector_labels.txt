@@ -1,0 +1,3 @@
+blue sample
+red sample
+yellow sample
